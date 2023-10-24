@@ -1,7 +1,6 @@
 # Prediction of Movie Success
- 
-Provide a brief description of the project
-Start by providing a brief overview of the project, what it is about, and what it aims to achieve. This will help readers quickly understand what the project is all about.
+
+## Inspecting Movie Features to Predict Revenue
 
 This data analysis takes info from [IMDB](https://developer.imdb.com/non-commercial-datasets/).  Using up-to-date statistical data from US-based movies I determine the features contributing to the revenue-based success of a movie. 
 
