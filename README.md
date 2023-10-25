@@ -17,7 +17,7 @@ For this analysis I've broken down the process of extracting, cleaning, filterin
 * **Part 4:** Apply hypothesis testing to explore what makes a movie successful
 * **Part 5 (Optional):** Produce a Linear Regression model to predict movie performance.
 
-**Data Dictionaries:**
+## **Data Dictionaries:**
 
 *title.basics.tsv.gz
 
