@@ -18,7 +18,8 @@ For this analysis I've broken down the process of extracting, cleaning, filterin
 * **Part 5 (Optional):** Produce a Linear Regression model to predict movie performance.
 
 **Data Dictionaries:**
-(*title.basics.tsv.gz)
+
+*title.basics.tsv.gz
 
 | Variable Name | Description |
 | --- | --- |
@@ -33,7 +34,7 @@ For this analysis I've broken down the process of extracting, cleaning, filterin
 | **genres (string array)** | includes up to three genres associated with the title |
 
 
-(*title.akas.tsv.gz)
+*title.akas.tsv.gz
 | Variable Name | Description |
 | --- | --- |
 | **titleId (string)** | a tconst, an alphanumeric unique identifier of the title
