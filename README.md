@@ -12,3 +12,6 @@ Throughout the project, the following key steps were undertaken:
 **Part 3:** Constructed and exported a MySQL database, incorporating the collected data, for efficient storage and retrieval.
 
 **Part 4:** Employed hypothesis testing to delve into the critical factors that influence a movie's success.
+
+
+## To prepare this data, the data was cleaned, and the following processes were performed:
