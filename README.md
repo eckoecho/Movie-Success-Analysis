@@ -15,3 +15,5 @@ Throughout the project, the following key steps were undertaken:
 
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
+
+During the exploratory data analysis, a mixture of barplots, boxplots, and histograms were visualized for each datatype column. 
