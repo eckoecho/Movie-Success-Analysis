@@ -24,6 +24,5 @@ The histogram shows the majority of US movies are rated R, followed by PG-13, an
 
 <img width="607" alt="Screenshot 2023-11-18 at 3 41 37 PM" src="https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/c3510877-dec6-4ead-9fdc-4ed686f25517">
 
-In this boxplot it shows the mosted revenued movies are G-rated, followed by PG-13 and PG.
-
+The boxplot reveals that G-rated movies generate the highest revenue, with PG-13 and PG-rated films following closely in revenue rankings. Boxplots depict the range and median of movie genres, with a black bar indicating the distribution. Notably, G-rated movies exhibit a wider revenue range compared to R-rated films.
 
