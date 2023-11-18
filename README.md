@@ -20,6 +20,6 @@ During the exploratory data analysis, a mixture of barplots, boxplots, and histo
 
 <img width="621" alt="Screenshot 2023-11-18 at 3 25 31 PM" src="https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/02d01313-c52d-4090-8349-a726ada06075">
 
-The majority of movies are rated R, followed by PG-13, and PG.
+The majority of US movies are rated R, followed by PG-13, and PG.
 
 
