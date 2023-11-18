@@ -11,10 +11,10 @@ This data analysis takes info from [IMDB](https://developer.imdb.com/non-commerc
 
 For this analysis I've broken down the process of extracting, cleaning, filtering and exploratory data analysis into digestible parts:
 
-* **Part 1:** Download several files from IMDB’s movie data set and filter out the subset of U.S. movies 
+* **Part 1:** Download several files from IMDB’s movie data set and filter out the subset of U.S. movies. 
 * **Part 2:** Use an API to extract box office revenue and profit data, add to the IMDB data and perform exploratory data analysis
 * **Part 3:** Construct and export a MySQL database using the data.
-* **Part 4:** Apply hypothesis testing to explore what makes a movie successful
+* **Part 4:** Apply hypothesis testing to explore what makes a movie successful.
 * **Part 5 (Optional):** Produce a Linear Regression model to predict movie performance.
 
 ## **Data Dictionaries:**
