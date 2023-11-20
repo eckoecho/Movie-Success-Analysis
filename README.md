@@ -31,3 +31,8 @@ The boxplot reveals that G-rated movies generate the highest revenue, with PG-13
 
 Based on the provided data, the exploratory data analysis (EDA) findings reveal notable variations in revenue and budget across different movie ratings. Specifically, G-rated movies tend to have higher median revenues (7.34e+07) compared to their median budget (2.38e+07). In contrast, R-rated movies exhibit a lower median revenue (1.53e+07) in relation to their median budget (9.50e+06). This suggests that, on average, G-rated movies achieve a more favorable revenue-to-budget ratio compared to R-rated movies. The analysis highlights the potential importance of movie rating in understanding the financial performance of films in the dataset.
 
+# Hypothesis Testing Results
+
+<img width="617" alt="Screenshot 2023-11-19 at 7 45 22 PM" src="https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/371a1053-f385-4593-8e27-3dd65b26480e">
+
+This boxplot visualizes the median revenue per genre, revealing that G-rated movies exhibit the highest revenue. Through hypothesis testing, statistical significance is established, leading to the rejection of the null hypothesis. This underscores the conclusion that a movie's rating significantly influences its financial success.
