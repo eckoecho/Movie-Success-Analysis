@@ -14,6 +14,7 @@ Throughout the project, the following key steps were undertaken:
 **Part 4:** Employed hypothesis testing to delve into the critical factors that influence a movie's success.
 
 
+# EDA
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
 During the exploratory data analysis, a mixture of barplots, boxplots, and histograms were visualized for each datatype column.
