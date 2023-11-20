@@ -1,3 +1,6 @@
+![IMDB_Logo_2016 svg](https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/519f7041-8793-434d-a99a-7091530aa8ff)
+
+
 # Movie Success Analysis
 
 Welcome to the Movie Success Analysis repository! In this project, we explored the multifaceted world of movie success, unraveling key insights that illuminate the factors influencing a film's financial triumph. Our journey led us through comprehensive data exploration, hypothesis testing, and intriguing revelations that offer actionable recommendations to stakeholders in the film industry.
