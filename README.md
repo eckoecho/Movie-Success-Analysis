@@ -52,5 +52,9 @@ Based on the Tukey results, we reject the null hypothesis and accept the alterna
 
 The test results suggest that the release month of a movie is a determining factor in its revenue success. Different months exhibit significant differences in mean revenue, indicating that the timing of a movie's release can impact its financial performance. For example, movies released in months like May, June, July, November, and December tend to have higher revenue compared to movies released in other months.
 
+## Hypothesis: Is there a significant difference in revenue between movies that belong to a collection and those that do not?
 
 
+<img width="736" alt="Screenshot 2023-11-19 at 11 45 17 PM" src="https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/259af2f3-8902-46d3-baa7-c4cb16777615">
+
+In this analysis, it is evident that movies belonging to a collection outperform those that do not. The rejection of the null hypothesis supports the conclusion that there is a statistically significant difference in revenue between collection and non-collection movies.
