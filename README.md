@@ -70,14 +70,14 @@ Timing is everything, especially in the film industry. Movies released in strate
 Movies are not solitary entities; they thrive in collections. Our analysis unveiled that movies belonging to a collection exhibit a distinct edge in revenue compared to their standalone counterparts. The saga of success continues across sequels.
 
 ## Actionable Insights
-### Strategic Release Planning:
+#### Strategic Release Planning:
 
 Stakeholders should strategically plan movie releases, considering the significant impact of release months on revenue. Aligning releases with peak months can optimize financial outcomes.
 
-### Genre Considerations:
+#### Genre Considerations:
 
 Filmmakers and producers should be mindful of the chosen MPAA rating, recognizing its influence on revenue. The appeal of family-friendly content, as reflected in G-rated movies, suggests a market demand that can be strategically tapped.
 
-### Franchise Opportunities:
+#### Franchise Opportunities:
 
 The allure of movie collections is undeniable. Exploring franchise opportunities and creating sequels could prove to be a lucrative strategy for sustained success.
