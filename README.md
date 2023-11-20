@@ -1,7 +1,9 @@
-# Movie Success Analysis
- 
+![IMDB_Logo_2016 svg](https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/519f7041-8793-434d-a99a-7091530aa8ff)
 
-In this project, I created a MySQL database combining a subset of IMDB's and TMDb's data on movies. The objective was to analyze the key drivers of a movie's success and provide actionable recommendations to stakeholders.
+
+# Movie Success Analysis
+
+Welcome to the Movie Success Analysis repository! In this project, we explored the multifaceted world of movie success, unraveling key insights that illuminate the factors influencing a film's financial triumph. Our journey led us through comprehensive data exploration, hypothesis testing, and intriguing revelations that offer actionable recommendations to stakeholders in the film industry.
 
 Throughout the project, the following key steps were undertaken:
 
@@ -52,5 +54,33 @@ Based on the Tukey results, we reject the null hypothesis and accept the alterna
 
 The test results suggest that the release month of a movie is a determining factor in its revenue success. Different months exhibit significant differences in mean revenue, indicating that the timing of a movie's release can impact its financial performance. For example, movies released in months like May, June, July, November, and December tend to have higher revenue compared to movies released in other months.
 
+## Hypothesis: Is there a significant difference in revenue between movies that belong to a collection and those that do not?
 
 
+<img width="736" alt="Screenshot 2023-11-19 at 11 45 17 PM" src="https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/259af2f3-8902-46d3-baa7-c4cb16777615">
+
+In this analysis, it is evident that movies belonging to a collection outperform those that do not. The rejection of the null hypothesis supports the conclusion that there is a statistically significant difference in revenue between collection and non-collection movies.
+
+
+# Key Findings
+1. #### **MPAA Ratings Matter**
+The rating assigned to a movie is not just a label; it's a significant predictor of financial success. G-rated movies, in particular, demonstrated the highest revenue, revealing a correlation between family-friendly content and box office triumph.
+
+2. #### **Release Months Set the Stage**
+Timing is everything, especially in the film industry. Movies released in strategic months – May, June, July, November, and December – consistently outperformed others. It's not just about what you show; it's about when you show it.
+
+3. #### **The Power of Collections**
+Movies are not solitary entities; they thrive in collections. Our analysis unveiled that movies belonging to a collection exhibit a distinct edge in revenue compared to their standalone counterparts. The saga of success continues across sequels.
+
+## Actionable Insights
+#### Strategic Release Planning:
+
+Stakeholders should strategically plan movie releases, considering the significant impact of release months on revenue. Aligning releases with peak months can optimize financial outcomes.
+
+#### Genre Considerations:
+
+Filmmakers and producers should be mindful of the chosen MPAA rating, recognizing its influence on revenue. The appeal of family-friendly content, as reflected in G-rated movies, suggests a market demand that can be strategically tapped.
+
+#### Franchise Opportunities:
+
+The allure of movie collections is undeniable. Exploring franchise opportunities and creating sequels could prove to be a lucrative strategy for sustained success.
