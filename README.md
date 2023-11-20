@@ -36,3 +36,7 @@ Based on the provided data, the exploratory data analysis (EDA) findings reveal 
 <img width="617" alt="Screenshot 2023-11-19 at 7 45 22 PM" src="https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/371a1053-f385-4593-8e27-3dd65b26480e">
 
 This boxplot visualizes the median revenue per genre, revealing that G-rated movies exhibit the highest revenue. Through hypothesis testing, statistical significance is established, leading to the rejection of the null hypothesis. This underscores the conclusion that a movie's rating significantly influences its financial success.
+
+<img width="533" alt="Screenshot 2023-11-19 at 8 28 15 PM" src="https://github.com/eckoecho/Movie-Success-Analysis/assets/43970023/fbe32f25-e297-41e5-843e-4a46e0e886e1">
+
+Statistically, there is a significant difference in revenue between G and R-rated movies, and the negative mean difference implies that, on average, G-rated movies have higher revenue than R-rated movies.Therefore, I reject the null hypothesis and choose the alternative hypothesis: There is a significant difference revenue between genres.
